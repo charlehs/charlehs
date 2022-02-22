@@ -6,7 +6,10 @@
 ## I'm a Frontend Developer, Graphic Designer and life long learner!!
 
 - 🌱 I’m currently learning JavaScript 
-- 🥅 2021 Goals: To become a web developer
+- 🥅 2022 Goals: 
+    * Finish [100 Days of code challenge](https://github.com/charlehs/100-days-of-code/blob/master/log.md)
+    * Get my website setup
+    * Build more things!
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
